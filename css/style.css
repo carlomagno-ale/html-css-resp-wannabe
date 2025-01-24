@@ -131,9 +131,9 @@ img {
 
 @media screen and (max-width: 768px) {
 
-    .text-center {
-        text-align: center;
-        color: aqua;
-    }
+    .container {
 
+        width: 100%;
+
+    }
 }
